@@ -4,7 +4,7 @@
   "description": "Declarative XML-to-JSON transformation",
   "version": "0.0.3",
   "main": "./jath.js",
-  "dependencies": {
+  "devDependencies": {
     "libxmljs": "0.8.1"
   },
   "contributors": [ 
